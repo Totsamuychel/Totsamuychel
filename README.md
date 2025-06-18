@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Totsamuychel/Totsamuychel/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Totsamuychel/Totsamuychel/blob/output/github-snake-dark.svg)
 
 ###
