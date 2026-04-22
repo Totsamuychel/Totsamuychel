@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">I'm an aspiring Python developer passionate about Artificial Intelligence, Machine Learning, and MLOps. I enjoy exploring the latest tools in data science and building projects that help me learn by doing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=totsamuychel&label=Profile%20views&color=0e75b6&style=flat" alt="totsamuychel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totsamuychel" alt="totsamuychel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tots_danya" target="blank"><img src="https://img.shields.io/twitter/follow/tots_danya?logo=twitter&style=for-the-badge" alt="tots_danya" /></a> </p>
-
 - 🔭 I’m currently working on [Water Tracker App](_[link will be added later]_)
 
 - 🌱 I’m currently learning **Python, MLOps, FastAPI, TensorFlow**
