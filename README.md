@@ -13,15 +13,10 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=totsamuychel&show_icons=true&locale=en&layout=compact" alt="totsamuychel" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=totsamuychel&" alt="totsamuychel" /></p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=totsamuychel&" alt="totsamuychel" />
 <img align="right" height="150" src="https://github.com/Totsamuychel/Totsamuychel/blob/main/assets/Computer Help GIF.gif?raw=true" />
+</p>
+
 
 ###
 
