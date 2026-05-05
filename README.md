@@ -88,3 +88,16 @@
 ![snake gif](https://github.com/Totsamuychel/Totsamuychel/blob/output/github-snake-dark.svg)
 
 ###
+
+## 🚀 Open Source & Geek Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🌍 AI_GeoDetect](https://github.com/Totsamuychel/AI_GeoDetect) | Diploma project — CV model that detects geolocation from street photos | Python, CV, PyTorch |
+| [🤖 Jarvis](https://github.com/Totsamuychel/Jarvis) | Local voice assistant with speech & vision that controls your PC via Ollama | Python, Ollama, STT/TTS |
+| [💬 Local_chatbot-AI](https://github.com/Totsamuychel/Local_chatbot-AI) | Async Telegram chatbot running open-source LLMs (Qwen3, GPT-OSS) locally on RTX 3090 | Python, Ollama, Telegram |
+| [🏋️ AI_Personal_Trainer](https://github.com/Totsamuychel/AI_Personal_Trainer) | RAG-powered personal trainer — generates plans & syncs to Google Sheets, deployable as Telegram bot | Python, RAG, OpenAI/Claude/Gemini |
+| [🖱️ CopyTool-App-with-AI](https://github.com/Totsamuychel/CopyTool-App-with-AI) | Desktop tool that uses a local AI model to detect labeled text on screen and copy it to clipboard | Python, Computer Vision |
+| [📢 AI-bot-for-Telegram-Channels](https://github.com/Totsamuychel/AI-bot-for-Telegram-Channels-) | Auto-parses AI news, generates text + images with LLM/DALL-E and posts to Telegram channels | Python, Automation |
+| [🧵 Threads_bot](https://github.com/Totsamuychel/Threads_bot) | Web dashboard to control a local AI-powered Threads social media bot | Python, Flask/FastAPI |
+| [🤝 AI_Agent_LLM_Tools_RAG](https://github.com/Totsamuychel/AI_Agent_LLM_Tools_RAG) | LLM agent with tool use and RAG pipeline | Python, LangChain, RAG |
