@@ -16,8 +16,6 @@
 
 <br/>
 
-<h3 align="center">I'm an aspiring Python developer passionate about Artificial Intelligence, Machine Learning, and MLOps. I enjoy exploring the latest tools in data science and building projects that help me learn by doing.</h3>
-
 ## 🎓 Education Background
 
 - **The University of Ukraine** | *Studied Software Engineering*
