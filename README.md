@@ -16,14 +16,6 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=computersniper&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&fire_color=58A6FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=computersniper&theme=transparent&hide_border=true&title_color=01143E&text_color=333333&icon_color=5f88e0&ring_color=5f88e0&fire_color=01143E">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=computersniper&theme=transparent&hide_border=true&title_color=01143E&text_color=333333&icon_color=5f88e0&ring_color=5f88e0&fire_color=01143E" alt="GitHub Streak" width="40%" />
-  </picture>
-</div>
-
 <h3 align="center">I'm an aspiring Python developer passionate about Artificial Intelligence, Machine Learning, and MLOps. I enjoy exploring the latest tools in data science and building projects that help me learn by doing.</h3>
 
 - 🛠️ I'm currently working on [Water Tracker App](_[link will be added later]_)
