@@ -41,8 +41,6 @@
             <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
             <br>Node.js
         </td>
-    </tr>
-    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
             <br>FastAPI
@@ -51,6 +49,7 @@
             <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
             <br>PostgreSQL
         </td>
+      <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" />
             <br>SQLite
@@ -70,10 +69,6 @@
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
             <br>Git
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-            <br>GitHub
         </td>
     </tr>
 </table>
