@@ -11,30 +11,77 @@
   <p><b>Computer Science Student | Building useful, unique, and elegant products.</b><br/>Focusing on Agent & LLM Engineering, RAG, and clean architecture.</p>
 
   <a href="mailto:danil46772@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/></a>
-  <a href="https://www.caijiechao.com"><img src="https://img.shields.io/badge/Portfolio-01143E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-01143E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </div>
 
 <br/>
 
 <h3 align="center">I'm an aspiring Python developer passionate about Artificial Intelligence, Machine Learning, and MLOps. I enjoy exploring the latest tools in data science and building projects that help me learn by doing.</h3>
 
-- 🛠️ I'm currently working on [Water Tracker App](_[link will be added later]_)
+## 🎓 Education Background
 
-- 🌱 I'm currently learning **Python, MLOps, FastAPI, TensorFlow**
-
-- 🤝 I'm looking for help with [Own Cloud Storage](_[link will be added later]_)
-
-- 💼 All of my projects are available at [portfolio link will be added later](_[portfolio link will be added later]_)
-
-- 📬 How to reach me **danil46772@gmail.com**
-
-</p>
+- **The University of Ukraine** | *Studied Software Engineering*
+  - Focus: Large Models & NLP, Multi-Agent Systems
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=totsamuychel" alt="totsamuychel" />
 <img align="right" height="150" src="https://github.com/Totsamuychel/Totsamuychel/blob/main/assets/Computer Help GIF.gif?raw=true" />
 </p>
 
-###
+## 🔨 Languages and Tools
+
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+            <br>Node.js
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+            <br>FastAPI
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+            <br>PostgreSQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" />
+            <br>SQLite
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            <br>Docker
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
+            <br>PyTorch
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
+            <br>TensorFlow
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+            <br>Git
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+            <br>GitHub
+        </td>
+    </tr>
+</table>
+
+<br clear="both"/>
+<br/>
 
 <br clear="both">
 
