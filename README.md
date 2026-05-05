@@ -21,10 +21,6 @@
 - **The University of Ukraine** | *Studied Software Engineering*
   - Focus: Large Models & NLP, Multi-Agent Systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=totsamuychel" alt="totsamuychel" />
-<img align="right" height="150" src="https://github.com/Totsamuychel/Totsamuychel/blob/main/assets/Computer Help GIF.gif?raw=true" />
-</p>
-
 ## 🔨 Languages and Tools
 
 <table align="center">
