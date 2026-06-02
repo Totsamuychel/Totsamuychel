@@ -82,7 +82,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [🌍 AI_GeoDetect](https://github.com/Totsamuychel/AI_GeoDetect) | Diploma project — CV model that detects geolocation from street photos | Python, CV, PyTorch |
+| [🌍 AI_GeoDetect](https://github.com/Totsamuychel/AI_GeoDetect) | Diploma project — CV model that detects geolocation from street photos (EfficientNet, ViT, CLIP) | Python, PyTorch, CLIP |
+| [🧠 DualMind-Dev](https://github.com/Totsamuychel/DualMind-Dev) | Multi-agent system: senior architect + junior executor LLMs collaborate autonomously to build software | Python, LLM, Multi-Agent |
 | [🤖 Jarvis](https://github.com/Totsamuychel/Jarvis) | Local voice assistant with speech & vision that controls your PC via Ollama | Python, Ollama, STT/TTS |
 | [💬 Local_chatbot-AI](https://github.com/Totsamuychel/Local_chatbot-AI) | Async Telegram chatbot running open-source LLMs (Qwen3, GPT-OSS) locally on RTX 3090 | Python, Ollama, Telegram |
 | [🏋️ AI_Personal_Trainer](https://github.com/Totsamuychel/AI_Personal_Trainer) | RAG-powered personal trainer — generates plans & syncs to Google Sheets, deployable as Telegram bot | Python, RAG, OpenAI/Claude/Gemini |
@@ -90,3 +91,8 @@
 | [📢 AI-bot-for-Telegram-Channels](https://github.com/Totsamuychel/AI-bot-for-Telegram-Channels-) | Auto-parses AI news, generates text + images with LLM/DALL-E and posts to Telegram channels | Python, Automation |
 | [🧵 Threads_bot](https://github.com/Totsamuychel/Threads_bot) | Web dashboard to control a local AI-powered Threads social media bot | Python, Flask/FastAPI |
 | [🤝 AI_Agent_LLM_Tools_RAG](https://github.com/Totsamuychel/AI_Agent_LLM_Tools_RAG) | LLM agent with tool use and RAG pipeline | Python, LangChain, RAG |
+| [📋 AI-Planner](https://github.com/Totsamuychel/AI-Planner) | Web dashboard for task planning with AI, syncs Obsidian notes to DB, Telegram notifications | Python, FastAPI, Obsidian |
+| [📖 AI-Reader](https://github.com/Totsamuychel/AI-Reader) | iOS app with local LLM that helps read books — has memory without spoilers | Swift, LLM, iOS |
+| [🐍 Ukrainian-LLM](https://github.com/Totsamuychel/Ukrainian-LLM-) | GPT transformer trained from scratch on Ukrainian literature (18–19th century books) | Python, PyTorch, NLP |
+| [🐳 AI-Orchestrator](https://github.com/Totsamuychel/AI-Orchestrator-) | Web dashboard to manage and monitor multiple Docker-based AI projects via single interface | Python, Docker, FastAPI |
+| [📝 AI_Driven_Documentation_Generator](https://github.com/Totsamuychel/AI_Driven_Documentation_Generator) | Automatically generates documentation for codebases using LLMs | Python, LLM |
